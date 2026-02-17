@@ -1,22 +1,48 @@
 {
   
   "name": "smart-book-app-",
+  
   "version": "1.0.0",
+  
   "description": "\"This is an bookmark app\"",
+  
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
-    "test": "\"jest\""
+  
+    
+  "start": "parcel index.html",
+  
+    
+  "build": "parcel build index.html",
+  
+    
+  "test": "\"jest\""
+  
   },
+  
   "author": "\"Allan sam\"",
+  
   "license": "ISC",
-
+  
   "devDependencies": {
-    "parcel": "^2.16.4"
+  
+    
+  "parcel": "^2.16.4"
+  
   },
+  
   "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "react-router-dom": "^7.13.0"
+  
+    
+  "react": "^19.2.4",
+  
+    
+  "react-dom": "^19.2.4",
+  
+    
+  "react-router": "^7.13.0",
+  
+    
+  "react-router-dom": "^7.13.0"
+  
   }
 }
