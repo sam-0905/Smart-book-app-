@@ -3,7 +3,6 @@
   "name": "smart-book-app-",
   "version": "1.0.0",
   "description": "\"This is an bookmark app\"",
-  "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
